@@ -1,3 +1,5 @@
-#MERHABA!
+#MERHABA
 
-##BU BIR GIT PROJESIDIR!!
+##BU BIR GIT PROJESIDIR
+
+Bu satırlar remote repo olan github uzerinden editlendi
