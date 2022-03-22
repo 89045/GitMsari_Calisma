@@ -8,6 +8,9 @@ public class Git1 {
     
         System.out.println("3.satir calisması");
       System.out.println("Test");
+    
+    //aydın
+    //sari
 
       //senol
       //mustafa
